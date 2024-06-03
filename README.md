@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Bienvenido a mi rincón de código!<br>Soy un apasionado programador de 20 años de España con un deseo insaciable de aprender, crecer y sumergirme en emocionantes proyectos. Mi viaje en el mundo de la programación está lleno de entusiasmo y dedicación.<br><br>¿Por qué la programación?<br>Desde que descubrí la programación, me enamoré de la posibilidad de crear cosas desde cero y dar vida a ideas a través del código. Me emociona el proceso de construcción y cómo cada línea de código puede marcar la diferencia.
+¡Bienvenido a mi rincón de código!<br>Soy un apasionado programador de 21 años de España con un deseo insaciable de aprender, crecer y sumergirme en emocionantes proyectos. Mi viaje en el mundo de la programación está lleno de entusiasmo y dedicación.<br><br>¿Por qué la programación?<br>Desde que descubrí la programación, me enamoré de la posibilidad de crear cosas desde cero y dar vida a ideas a través del código. Me emociona el proceso de construcción y cómo cada línea de código puede marcar la diferencia.
 
 
 ## 🌐 Socials:
