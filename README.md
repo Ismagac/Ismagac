@@ -1,5 +1,9 @@
 # 💫 About Me:
-¡Bienvenido a mi rincón de código!<br>Soy un apasionado programador de 21 años de España con un deseo insaciable de aprender, crecer y sumergirme en emocionantes proyectos. Mi viaje en el mundo de la programación está lleno de entusiasmo y dedicación.<br><br>¿Por qué la programación?<br>Desde que descubrí la programación, me enamoré de la posibilidad de crear cosas desde cero y dar vida a ideas a través del código. Me emociona el proceso de construcción y cómo cada línea de código puede marcar la diferencia.
+👋 Hi there! I'm Ismael, a 21-year-old passionate Full Stack Software Developer from Madrid, Spain. 🚀
+With a strong background in React, TypeScript, Python, and tools like Django, Node.js, and Backstage, I love creating accessible and user-friendly platforms. Whether it's building scalable back-end architectures, connecting with advanced cybersecurity tools, or collaborating with design teams to deliver sleek UI/UX, I’m all about turning ideas into impactful solutions.
+I’ve worked on everything from machine learning and deep learning projects to building robust APIs with tools like Grafana, Datadog, and Prometheus, always ensuring code quality and security with CI/CD pipelines (think GitHub Actions, SonarQube, OWASP ZAP, and Jest). 🌟
+💭 Dream big or go home: My ultimate goal? To work as a software engineer abroad, contributing to cutting-edge projects while soaking in new cultures and challenges. I’m all about resilience, continuous learning, and solving problems, and I can’t wait to see where the road takes me!
+If you're here, you're probably looking at my projects—feel free to explore! Let’s connect and build something amazing together.
 
 
 ## 🌐 Socials:
